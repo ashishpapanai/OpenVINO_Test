@@ -3,4 +3,4 @@ echo "==========================================================================
 conda activate openvino22
 echo "Initialize OpenVINO Environment"
 echo "==============================================================================="
-source /home/ashishpapanai/openvino_2021/bin/setupvars.sh 
+source /home/ashishpapanai/intel/openvino_2022/setupvars.sh 
