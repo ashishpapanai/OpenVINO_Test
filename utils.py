@@ -109,4 +109,3 @@ class Attention_AR_counter():
     def convert(self, output, out_length=torch.tensor([11])):
         prdt_texts, prdt_prob = self.de.decode(output, out_length)
         return prdt_texts
-
